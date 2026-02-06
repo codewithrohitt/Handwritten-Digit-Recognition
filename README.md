@@ -11,6 +11,12 @@ Tech Stack:
 • Scikit-learn
 • Matplotlib
 
+## Installation
+pip install -r requirements.txt
+
+## Dataset
+The MNIST dataset is used for training and testing handwritten digit images.
+
 Key Steps:
 • Data loading and preprocessing
 • Model training using supervised learning
